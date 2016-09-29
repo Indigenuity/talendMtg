@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010">
+  <TalendMetadata:GenericSchemaConnection xmi:id="_c_WosoZvEeaxfIbWrmofWA" comment="connectionComment" label="connectionLabel" dataPackage="_c_Wos4ZvEeaxfIbWrmofWA" mappingTypeUsed="true" mappingTypeId="mysql_id"/>
+  <TalendMetadata:GenericPackage xmi:id="_c_Wos4ZvEeaxfIbWrmofWA" dataManager="_c_WosoZvEeaxfIbWrmofWA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_c_WotIZvEeaxfIbWrmofWA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_WotYZvEeaxfIbWrmofWA" name="rarity" id="4456" label="rarity" length="20" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WotoZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_Wot4ZvEeaxfIbWrmofWA" name="set" id="4457" label="set" length="3" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WouIZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_WouYZvEeaxfIbWrmofWA" name="setName" id="4458" label="setName" length="255" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WouoZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_Wou4ZvEeaxfIbWrmofWA" name="artist" id="4459" label="artist" length="50" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WovIZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_WovYZvEeaxfIbWrmofWA" name="layout" id="4460" label="layout" length="25" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WovoZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_Wov4ZvEeaxfIbWrmofWA" name="multiverseid" id="4461" label="multiverseid" length="10" sourceType="INT" talendType="id_Integer">
+        <initialValue xmi:id="_c_WowIZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_WowYZvEeaxfIbWrmofWA" name="imageUrl" id="4462" label="imageUrl" length="255" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WowoZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_Wow4ZvEeaxfIbWrmofWA" name="originalText" id="4463" label="originalText" length="65535" sourceType="TEXT" talendType="id_String">
+        <initialValue xmi:id="_c_WoxIZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_WoxYZvEeaxfIbWrmofWA" name="originalType" id="4464" label="originalType" length="255" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WoxoZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_Wox4ZvEeaxfIbWrmofWA" name="printingId" id="4465" label="printingId" length="40" sourceType="VARCHAR" talendType="id_String" key="true" nullable="false">
+        <initialValue xmi:id="_c_WoyIZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_WoyYZvEeaxfIbWrmofWA" name="number" id="4466" label="number" length="10" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WoyoZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_Woy4ZvEeaxfIbWrmofWA" name="flavor" id="4467" label="flavor" length="1000" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WozIZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_WozYZvEeaxfIbWrmofWA" name="variations___" id="4468" label="variations___" length="500" sourceType="VARCHAR" talendType="id_String">
+        <initialValue xmi:id="_c_WozoZvEeaxfIbWrmofWA"/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_c_Woz4ZvEeaxfIbWrmofWA" id="12690" label="cardId" length="-1" precision="-1" sourceType="INT" talendType="id_Integer" nullable="false">
+        <initialValue xmi:id="_c_Wo0IZvEeaxfIbWrmofWA"/>
+      </feature>
+    </ownedElement>
+  </TalendMetadata:GenericPackage>
+</xmi:XMI>

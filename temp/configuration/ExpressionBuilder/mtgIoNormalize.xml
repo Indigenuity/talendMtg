@@ -1,0 +1,31 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<expression:EMFExpression xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:expression="http:///expression.ecore" id="tMap_6=>" expression="Numeric.sequence(&quot;s1&quot;,1,1)">
+  <variables name="row27.name" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.manaCost" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.cmc" value="null" talendType="id_Float" nullable="true"/>
+  <variables name="row27.colors___" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.type" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.types___" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.rarity" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.set" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.setName" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.text" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.artist" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.layout" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.multiverseid" value="null" talendType="id_Integer" nullable="true"/>
+  <variables name="row27.imageUrl" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.rulings___" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.printings___" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.originalText" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.originalType" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.legalities___" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.id" value="null" talendType="id_String"/>
+  <variables name="row27.number" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.subtypes___" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.flavor" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.power" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.toughness" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.supertypes___" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.variations___" value="null" talendType="id_String" nullable="true"/>
+  <variables name="row27.reserved" value="null" talendType="id_String" nullable="true"/>
+</expression:EMFExpression>
